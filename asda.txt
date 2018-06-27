@@ -1,0 +1,5 @@
+1. terapkan tabel union dan join (cross,inner,left right)
+dalam penggunaan php 
+2. tabel penjualan, user dan barang semua berelasi
+dan tampilkan semua data tabel dengan join berdasarkan
+dari tabel penjualan
